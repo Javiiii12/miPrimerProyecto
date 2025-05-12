@@ -1,1 +1,2 @@
 Conocimientos en html y css
+Conocimientos en javaScript y java
